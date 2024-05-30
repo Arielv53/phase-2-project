@@ -34,11 +34,12 @@ function HomePage () {
     return (
       <div>
         <Navbar/>
-        <h1>Events</h1>
+        <h1>List of Events 📅</h1>
         <ul>
           {events.map(event => (
             <li key={event.id}>
               <h2>{event.event}</h2>
+              <p>({event.description})</p>
               <button onClick={() => handleDeleteEvent(event.id)}>Delete Event</button>
             </li>
         ))}

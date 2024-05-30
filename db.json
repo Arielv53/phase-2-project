@@ -1,19 +1,34 @@
 {
   "eventlist": [
     {
+      "id": "1",
+      "event": "Concert",
+      "description": "concert with girlfriend in August"
+    },
+    {
       "id": "2",
-      "event": "Finish quizzes !",
-      "description": "Complete all quizzes for school before due date"
+      "event": "Get Dad from Airport",
+      "description": "pick up dad from JFK July 9th"
+    },
+    {
+      "id": "3",
+      "event": "Family's BBQ",
+      "description": "grandpas bbq party in July"
     },
     {
       "id": "4",
-      "event": "Workout !",
-      "description": "Remember to target chest & triceps Tomorrow"
+      "event": "Block party",
+      "description": "Cousins block party end of August"
     },
     {
-      "id": "7a3d",
+      "id": "5",
+      "event": "Last day of class !",
+      "description": "end of Software Engineering program early August"
+    },
+    {
+      "id": "6",
       "event": "Uncle's Wedding",
-      "description": "Uncles wedding in August"
+      "description": "Dennis's wedding in August"
     }
   ]
 }

@@ -56,7 +56,7 @@ function EventDetailPage () {
   return (
       <div>
         <Navbar/>
-      <h1>Event Detail Page</h1>
+      <h1>Update Event</h1>
       <form onSubmit={handleUpdateEvent}>
         <input
           type="text"
@@ -70,7 +70,7 @@ function EventDetailPage () {
           value={eventDescription}
           onChange={(e) => setEventDescription(e.target.value)}
         />
-        <button type="submit">Update Event</button>
+        <button type="submit">Update</button>
       </form>
     </div>
     );

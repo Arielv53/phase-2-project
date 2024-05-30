@@ -38,7 +38,7 @@ function AddEventPage () {
     return (
       <div>
         <Navbar/>
-      <h1>Add Event Page</h1>
+      <h1>Add Event</h1>
       <form onSubmit={handleAddEvent}>
         <input
           type="text"
@@ -52,7 +52,7 @@ function AddEventPage () {
           value={eventDescription}
           onChange={(e) => setEventDescription(e.target.value)}
         />
-        <button type="submit">Add Event</button>
+        <button type="submit">Add</button>
       </form>
     </div>
   );

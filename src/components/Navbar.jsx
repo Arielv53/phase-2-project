@@ -7,7 +7,7 @@ function Navbar() {
       <nav>
         <Link to="/home">Home</Link>
         <Link to="/add-event">Add Event</Link>
-        <Link to="/event/:id">Event Details</Link>
+        <Link to="/event/:id">Update Event</Link>
       </nav>
     );
 };
