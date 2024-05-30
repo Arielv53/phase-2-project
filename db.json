@@ -1,0 +1,19 @@
+{
+  "eventlist": [
+    {
+      "id": "2",
+      "event": "Finish quizzes !",
+      "description": "Complete all quizzes for school before due date"
+    },
+    {
+      "id": "4",
+      "event": "Workout !",
+      "description": "Remember to target chest & triceps Tomorrow"
+    },
+    {
+      "id": "7a3d",
+      "event": "Uncle's Wedding",
+      "description": "Uncles wedding in August"
+    }
+  ]
+}
